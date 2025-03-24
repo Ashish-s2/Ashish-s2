@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Python automation projects and innovative AI applications , On projects involving AI in healthcare, biomedical research, or diagnostics.
 
 
-- 📫 How to reach me =
+- 📫 How to reach me = [Gmail = 6372671@gmail.com)
 - 😄 Pronouns: HE
 - ⚡ Fun fact:"If it has four wheels and goes fast, I'm interested!" 🚗💨
 
