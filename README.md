@@ -2,7 +2,7 @@
 - 👀 I’m interested in Building tools to automate tasks and improve productivity and Applying AI for financial analysis and market prediction.
 - 🌱 I’m currently learning  AI model development for automation and learning to write efficient shell scripts for automation.
 
-- 💞️ I’m looking to collaborate on Python automation projects and innovative AI applications , On projects involving AI in healthcare, biomedical research, or diagnostics.
+- 💞️ I’m looking to collaborate on Python automation projects and innovative AI applications , On projects involving AI in healthcare, biomedical research, or diagnostics, Financial data
 
 
 - 📫 How to reach me = [Gmail = 6372671@gmail.com] 
