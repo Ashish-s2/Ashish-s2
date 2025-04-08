@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish sahu ,currently at the 6th semester of my Biomedical engineering  at NIT Rourkela
+- 👋 Hi, I’m Ashish sahu,currently at the 6th semester of my Biomedical engineering  at NIT Rourkela
 - 👀 I’m interested  in Building tools to automate tasks and improve  productivity and  Applying AI for financial analysis and  market prediction.
 - 🌱 I’m currently learning  AI model development for automation  and learning to write  efficient shell scripts  for automation and learning  computer vision for automating task
 
