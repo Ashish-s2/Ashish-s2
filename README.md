@@ -10,6 +10,6 @@
 - ⚡ Fun fact: "If it has four wheels and goes fast, I'm interested!" 
 
 <!---
-Ashish-s2/Ashish-s2 is a ✨ special ✨ repository  because its`README.md` (this file) appears on your GitHub profile.
+Ashish-s2/Ashish-s2 is a ✨ special  repository  because its`README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
