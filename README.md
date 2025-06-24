@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Python automation projects and innovative AI applications, On projects involving AI in healthcare, biomedical research, or diagnostics, Financial data analysis for stock  market analysis.
 
 
-- 📫 How to reach me = [Gmail id = 6372671@gmail.com] [linkedIn]
+- 📫 How to reach me = [Gmail id = 6372671@gmail.com] [linkedIn =]
 - 😄 Pronouns: HE
 - ⚡ Fun fact: "If it has four wheels and goes fast, I'm interested!" 
 
