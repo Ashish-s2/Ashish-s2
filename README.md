@@ -6,7 +6,7 @@
 
 
 -  How to reach me = [Gmail id = 6372671@gmail.com] [linkedIn = ]
-- 😄 Pronouns: HE
+-  Pronouns: HE
 - ⚡ Fun fact: "If it has four wheels and goes fast, I'm interested!" 
 
 <!---
