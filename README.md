@@ -7,7 +7,7 @@
 
 -  How to reach me = [Gmail id = 6372671@gmail.com] [linkedIn = ]
 -  Pronouns: HE
--  Fun fact: "If it has four wheels and goes fast, I'm interested!" 
+-  Fun fact:  "If it has four wheels and goes fast, I'm interested!" 
 
 <!---
 Ashish-s2/Ashish-s2 is a  special  repository  because its`README.md` (this file) appears on your GitHub profile.
