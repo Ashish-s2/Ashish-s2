@@ -22,6 +22,7 @@ class Ashish:
 
     def vibe(self):
         return "Gen Z brain, old-school heart, future-ready soul 💫"
+```
 
 
 
