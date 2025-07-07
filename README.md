@@ -55,7 +55,6 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 ☕ Let’s Connect & Collab
 🔗 Portfolio Website (launching soon)
 
-📸 Instagram Gym Bot (Tanya Turbo AI)
 
 📫 ashishsahu.official@gmail.com
 
