@@ -61,3 +61,6 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 🧳 LinkedIn
 
 🧠 Let’s make data dance & code sing 🎶
+
+
+ <!--START_SECTION:waka--> <!--END_SECTION:waka-->
