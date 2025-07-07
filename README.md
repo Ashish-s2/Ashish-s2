@@ -65,19 +65,5 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 
 <p align="center"> <b>“Consistency isn’t sexy, but it builds empires.”</b> </p> ```
 
-name: WakaTime Readme
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: WakaTime Readme Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ waka_3ea5ab57-f176-457a-8e88-f6be34a1bb98 }}
 
