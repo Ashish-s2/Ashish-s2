@@ -47,7 +47,7 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 | 🤖 **Tanya Turbo AI System**              | Python, Genmo, Bark, n8n, FFmpeg | [See the Build](#) *(DM for private repo access)*                                                                            |
 | 🌬️ **Air Quality Prediction**            | ML, Visualizations               | (Repo coming soon)                                                                                                           |
 
-
+<!--START_SECTION:waka--> <!--END_SECTION:waka-->
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashish-s2&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish-s2&theme=tokyonight" height="150"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-s2&layout=compact&theme=tokyonight" height="150"/> </p>
