@@ -26,6 +26,9 @@ class Ashish:
         return "Gen Z brain, old-school heart, future-ready soul 💫"
 ```
 
+💼 My Resume
+📄 Download My Resume (PDF)
+
 
 
 📌 Tech Stack
