@@ -33,7 +33,7 @@ class Ashish:
 
 
 📌 Tech Stack
-Languages: Python 🐍 | C++ 💻 | JavaScript ⚡
+Languages: Python 🐍 | C++ 💻 | JavaScript 
 Frameworks: Streamlit | Flask | React | Tailwind | scikit-learn | TensorFlow
 Tools: Git | GitHub | VS Code | Jupyter | FFMPEG | Bash
 Dev Magic: n8n, ElevenLabs, Genmo, Bark, SadTalker, Pika Labs
