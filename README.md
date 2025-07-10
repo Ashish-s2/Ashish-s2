@@ -26,7 +26,7 @@ class Ashish:
         return "Gen Z brain, old-school heart, future-ready soul 💫"
 ```
 
-💼 My Resume
+ My Resume
 📄 [Download My Resume (PDF)](https://github.com/Ashish-s2/Ashish-s2/blob/main/122BM0499_Ashish%20Sahu.pdf)
 
 
