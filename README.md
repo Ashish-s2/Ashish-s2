@@ -16,7 +16,7 @@
 class Ashish:
     def __init__(self):
         self.name = "Ashish Sahu"
-        self.college = "NIT Rourkela 🎓"
+        self.college = "NIT Rourkela "
         self.domain = ["Biomedical", "AI/ML", "Full-Stack Dev"]
         self.goal = "Decode the world, one dataset at a time."
         self.status = "Final Year + Placement Prep Mode "
