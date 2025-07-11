@@ -11,7 +11,7 @@
 
 ---
 
-### 🧬 About Me  
+###  About Me  
 ```python
 class Ashish:
     def __init__(self):
