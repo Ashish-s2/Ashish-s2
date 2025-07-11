@@ -60,7 +60,7 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 
 🧳 LinkedIn
 
-🧠 Let’s make data dance & code sing 🎶
+ Let’s make data dance & code sing 🎶
 
 
 <p align="center"> <b>“Consistency isn’t sexy, but it builds empires.”</b> </p> ```
