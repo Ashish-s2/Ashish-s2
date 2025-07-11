@@ -56,7 +56,7 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 🔗 Portfolio Website (launching soon)
 
 
-📫 ashishsahu.official@gmail.com
+ ashishsahu.official@gmail.com
 
 🧳 LinkedIn
 
