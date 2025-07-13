@@ -46,7 +46,7 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 | 🔮 **Flight Price Predictor**             | Streamlit, Sklearn, Pandas       | [GitHub](https://github.com/Ashish-s2/flight-price-predictor) · [Live Demo](https://flight-price-predictor-1.streamlit.app/) |
 | 🚆 **Railway Delay Optimization** *(WIP)* | Python, ML, JS, APIs             | Coming soon…                                                                                                                 |
 |  **Tanya Turbo AI System**              | Python, Genmo, Bark, n8n, FFmpeg | [See the Build](#) *(DM for private repo access)*                                                                            |
-| 🌬️ **Air Quality Prediction**            | ML, Visualizations               | (Repo coming soon)                                                                                                           |
+| 🌬 **Air Quality Prediction**            | ML, Visualizations               | (Repo coming soon)                                                                                                           |
 
 <!--START_SECTION:waka--> <!--END_SECTION:waka-->
 
