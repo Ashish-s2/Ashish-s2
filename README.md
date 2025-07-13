@@ -52,7 +52,7 @@ Data: Pandas | NumPy | Matplotlib | Seaborn | PowerBI | SQL
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashish-s2&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish-s2&theme=tokyonight" height="150"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-s2&layout=compact&theme=tokyonight" height="150"/> </p>
-☕ Let’s Connect & Collab
+ Let’s Connect & Collab
 🔗 Portfolio Website (launching soon)
 
 
