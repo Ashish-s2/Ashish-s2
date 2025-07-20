@@ -32,7 +32,7 @@ class Ashish:
 
 
 
-📌 Tech Stack
+ Tech Stack
 Languages: Python  | C++  | JavaScript 
 Frameworks: Streamlit | Flask | React | Tailwind | scikit-learn | TensorFlow
 Tools: Git | GitHub | VS Code | Jupyter | FFMPEG | Bash
