@@ -23,7 +23,7 @@ class Ashish:
         self.interests =  ["Railway Optimization",  "AI Content Systems", "SDE Projects", "Stock Analysis"]
 
     def vibe(self):
-        return  "Gen Z brain,old-school heart,future-ready soul "
+        return  "Gen Z brain,old-school heart, future-ready soul "
 ```
 
  My Resume
