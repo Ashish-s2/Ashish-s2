@@ -19,7 +19,7 @@ class Ashish:
         self.college = "NIT Rourkela "
         self.domain =  ["Biomedical", "AI/ML", "]
         self.goal = "Decode the world, one dataset at a time."
-        self.status = "Final Year + Placement Prep Mode "
+        self.status =  "Final Year + Placement Prep Mode "
         self.interests =  ["Railway Optimization", "AI Systems", "SDE Projects", "Stock Analysis"]
 
     def vibe(self):
