@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋 I'm Ashish Sahu</h1>
 <p align="center">
-   Final Year Biomedical Engineer  @ NIT Rourkela|AI Dev| Data scientist in making
+   Final Year Biomedical Engineer  @ NIT Rourkela|AI Dev|Data scientist in making
 </p>
 
 <p align="center">
