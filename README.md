@@ -20,7 +20,7 @@ class Ashish:
         self.domain = ["Biomedical", "AI/ML",  "]
         self.goal = "Decode the world, one dataset at a time."
         self.status =  "Final Year + Placement Prep Mode "
-        self.interests =  ["Railway Optimization", "AI Systems",  "SDE Projects", "Stock Analysis"]
+        self.interests =  ["Railway Optimization", "AI Systems",  "SDE Projects",  "Stock Analysis"]
 
     def vibe(self):
         return  "Gen Z brain,old-school heart,  future-ready soul "
