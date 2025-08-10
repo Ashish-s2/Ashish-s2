@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/Ashish-s2/Ashish-s2/main/banner.gif" alt="hero banner"  width="100%"/>
++<img src="https://raw.githubusercontent.com/Ashish-s2/Ashish-s2/main/banner.gif" alt="hero banner"  width="100%"/>
 
 <h1 align="center">Hey there 👋  I'm Ashish Sahu</h1>
 <p align="center">
-   Final Year Biomedical Engineer @ NIT Rourkela|AI Dev|Data  scientist in making
+   Final Year Biomedical Engineer @ NIT Rourkela|AI Dev|Data   scientist in making
 </p>
 
 <p align="center">
